@@ -8,9 +8,11 @@
 [<img align="left" alt="inzynierdomu Facebook" width="22px" src="https://www.inzynierdomu.pl/wp-content/uploads/2019/09/pobrane-2.png"/>][facebook]
 [<img align="left" alt="inzynierdomu Facebook" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/discord.svg"/>][discord]
 
-If you want to support me:
+<br><br>
+### If you want to support me:
+
 [<img align="left" alt="inzynierdomu Youtube" width="22px" src="https://www.inzynierdomu.pl/wp-content/uploads/2019/09/pobrane-4.png"/>][youtube]
-[<img align="left" alt="inzynierdomu Youtube" width="22px" src="https://www.inzynierdomu.pl/skarbonka/"/>][tipo]
+[<img align="left" alt="inzynierdomu Youtube" width="22px" src="https://www.inzynierdomu.pl/wp-content/uploads/2021/03/skarbonka.png"/>][tipo]
 
 [youtube]: https://www.youtube.com/c/InzynierDomu
 [youtube_support]: https://www.youtube.com/channel/UCBqXrQoCoGFaLeEQtNU_w9A/join
