@@ -19,7 +19,7 @@
 
 ### If you want to support me:
 
-[<img align="left" alt="inzynierdomu Youtube" width="40px" src="https://www.inzynierdomu.pl/wp-content/uploads/2019/09/pobrane-4.png"/>][youtube_support][<img align="left" alt="inzynierdomu Youtube" width="40px" src="https://www.inzynierdomu.pl/wp-content/uploads/2021/03/skarbonka.png"/>][tipo]
+[<img align="left" alt="inzynierdomu Youtube" width="40px" src="https://www.inzynierdomu.pl/wp-content/uploads/2019/09/pobrane-4.png"/>][youtube_support][<img align="left" alt="Postaw mi kawę na buycoffee.to" width="40px" src="https://buycoffee.to/img/share-button-primary.png" style="width: 156px; height: 40p"/>][buycoffe]
 
 [youtube_support]: https://www.youtube.com/channel/UCBqXrQoCoGFaLeEQtNU_w9A/join
-[tipo]: https://tipo.live/p/inzynierdomu
+[buycoffe]: https://buycoffee.to/inzynier-domu
